@@ -1,0 +1,31 @@
+# REPORT – VPN Setup & Privacy
+
+## VPN Used
+ProtonVPN Free Tier
+
+## Connection Details
+- Protocol: OpenVPN (UDP)
+- Server: Japan
+- Encryption: AES-256
+
+## Observations
+- IP changed from 103.120.95.109 (India) to 149.88.103.47 (Japan).
+- Speed dropped from ~97.12 Mbps (download) / ~99.69 Mbps (upload) to ~90.95 Mbps (download) / ~82.39 Mbps (upload).
+- Browsing remained stable; YouTube and other streaming worked without buffering.
+
+## Benefits
+- Encrypted internet traffic
+- Masked IP address
+- Protection on public networks
+
+## Limitations
+- Slight speed reduction
+- Some websites block VPN IP ranges
+- Free plan has limited servers
+
+## Screenshots
+- ip_before_vpn.png
+- ip_after_vpn.png
+- vpn_connection_status.png
+- speedtest_before_vpn.png
+- speedtest_after_vpn.png
